@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "お姫様にはなれない",
+  "base_artist": "『ユイカ』",
+  "createdAt": "2026-03-10T10:17:06.464269Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "お姫様にはなれない",
+      "artist": "『ユイカ』",
+      "has_synced": false,
+      "path": "select/pl_01_お姫様にはなれない_『ユイカ』.txt"
+    }
+  ]
+}
